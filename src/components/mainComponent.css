@@ -1,3 +1,8 @@
 .alphabet-letter {
     padding: 10px;
 }
+
+.word-placeholder {
+    font-size: 30px;
+    letter-spacing: 10px;
+}
